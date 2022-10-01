@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fady-louis
-- 👀 I’m interested in Machine Learning
-- 📫 How to reach me linkedin.com/in/fady-maged-louis
+- 👀 I’m interested in Data anysis
+- 📫 you can reach me in linkedin.com/in/fady-maged-louis
 
 <!---
 fady-louis/fady-louis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
